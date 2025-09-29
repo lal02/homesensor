@@ -53,6 +53,13 @@ Furthermore, the script utilises the API of OpenWeatherMap to retrieve current w
 ![matrix.jpeg](https://github.com/lal02/homesensor/blob/main/matrix.jpeg)
 
 
+## PCB
+With the help of a friend I managed to design a pcb using KiCad and ordered it from pcbway.
+The PCB-Design is very basic and still has room for improvement. 
+This is an area where I had no previous experience in and I learned a lot from tinkering around with KiCad.
+<img width="1420" height="1432" alt="image" src="https://github.com/user-attachments/assets/c27b0b09-86a5-4110-8d3c-307a3753b372" />
+
+
 ## Learnings
 Throughout this project, I've gained a variety of skills and knowledge. 
 This includes for example soldering and electronics, which were essential for building and troubleshooting hardware. 
